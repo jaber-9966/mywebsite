@@ -38,12 +38,13 @@ a:hover{
     
 
 .nn{
-    background-image: url(../me-website/images/one.png);
+    background-image: url(../me-website/images/images2.jpg);
     background-color:rgba(4, 53, 73, 0.6);
     width: 900px;
     height: 900px;
     border-radius: 600%;
-    background-position: 50% 100%;}
+    background-position: 50% 100%;
+    background-size: cover;}
 .nn:hover{
     background-color:rgba(5, 55, 116, 0.801);
     transform: scale(1.3);
