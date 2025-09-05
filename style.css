@@ -1,5 +1,5 @@
 body{
-    background-image: url(../me-website/images/one.png);
+    background-image: url(.//images/images.jpg);
     background-size: cover; }
 
 nav{
@@ -38,7 +38,7 @@ a:hover{
     
 
 .nn{
-    background-image: url(../me-website/images/images.jpg);
+    background-image: url(../me-website/images/one.png);
     background-color:rgba(4, 53, 73, 0.6);
     width: 900px;
     height: 900px;
